@@ -1,0 +1,66 @@
+body
+{
+   height: 8000px; 
+
+}
+nav
+{
+
+background:linear-gradient( to left , rgb(88, 56, 8) ,black);
+
+}
+.aboutus
+{
+   width: 100%;
+   height: 800px;
+   color: rgb(0, 0, 0);
+   background-image: url(./img/./background\ img/810873.jpg);
+   background-size: 100% 100%;
+   background-attachment: fixed;
+   font-size: 25px;
+   font-weight: bold;
+}
+h1
+{
+   text-align: center;
+   padding-top: 20px;
+   color :white;
+}
+h2{
+   padding-left: 50px;
+}
+.para
+{
+   padding-left: 70px;
+}
+button
+{
+   margin-left :47%;
+}
+.feedback
+{
+   width: 100%;
+   height: 500px;
+ background-image:url(./img/background\ img/cropped-1920-1080-875702.jpg);  
+ background-size: 100% 100%;
+ background-attachment: fixed;
+}
+.card
+{
+border-radius: 20px;
+background-color: brown;   
+}
+.gallery
+{
+background-color: black;
+}
+.product
+{
+   height: 730px;
+   background-color: black;
+}
+.contactus
+{
+background-color: cadetblue;
+}
+
